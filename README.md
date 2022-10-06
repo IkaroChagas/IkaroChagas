@@ -20,6 +20,6 @@
 
 ### Codewars:
 
-![image](https://www.codewars.com/users/IkaroChagas/badges/small)
+![image](https://www.codewars.com/users/IkaroChagas/badges/large)
 
 </div>
