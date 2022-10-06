@@ -18,7 +18,7 @@
 <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alt="typescript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-### CodewarsBadge:
+### Codewars:
 
 ![image](https://www.codewars.com/users/IkaroChagas/badges/small)
 
